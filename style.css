@@ -1,0 +1,19 @@
+body {
+    background: radial-gradient(yellow 0%, red 100%);
+    color: #b700ff;
+    font-size: 30px;
+    font-family: 'Meow Script', cursive;
+}
+h1 {
+    background-color:aquamarine;
+    color:blue;
+}
+#show_sketches {
+    float:right;
+    background-color: aquamarine;
+    border: 4.4px solid salmon; 
+}
+canvas{
+    margin-top:210;
+    border-radius:20px;
+}
